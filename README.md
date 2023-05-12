@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SytHamMer&show_icons=true&theme=transparent&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SytHamMer&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SytHamMer&size_weight=0.5&count_weight=0.5&theme=transparent&langs_count=10)
 
 
